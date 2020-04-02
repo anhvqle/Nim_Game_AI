@@ -36,5 +36,6 @@ public class NimGame {
 			}
 		}
 		System.out.println("\nGAME OVER");
+		input.close();
 	}
 }
